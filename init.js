@@ -1,5 +1,0 @@
-watchAll();
-
-"content/crates"
-
-)]);
