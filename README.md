@@ -1,3 +1,3 @@
 # prod-js
 
-Aeronami Network Github
+Aeronami Network
